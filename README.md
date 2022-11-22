@@ -1,7 +1,5 @@
 # Welcome!
 ---
-Yna Czelene Jacob
----
 ---
 `my favorites`
 ---

@@ -1,6 +1,7 @@
 # Welcome!
 ---
-Jacob,Yna Czelene P.
+Yna Czelene Jacob
+---
 ---
 `my favorites`
 ---

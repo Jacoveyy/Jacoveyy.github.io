@@ -1,6 +1,5 @@
 # Welcome!
 ---
-*hi*
 
 ---
 `my favorites`

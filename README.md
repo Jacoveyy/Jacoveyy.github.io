@@ -1,6 +1,5 @@
 # Welcome!
 ---
----
 `my favorites`
 ---
 
